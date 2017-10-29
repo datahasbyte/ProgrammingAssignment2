@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Programming Assignment 2
+## cacheMatrix.R
 
 ## Write a short comment describing this function
 ## the makeCacheMatrix function stores a matrix
@@ -18,7 +18,6 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-## Write a short comment describing this function
 ## works with makeCacheMatrix to retrive values from
 ## and to set values in the cache
 
